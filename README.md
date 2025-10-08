@@ -1,4 +1,4 @@
-# 🧠 SIH MindCare Product QR Code Generator
+# 🧠 QR Code Generator
 
 This project is a simple yet powerful **QR Code Generator** built with Python.  
 It generates a scannable QR code that redirects users to the **SIH MindCare Platform Login Page**.
